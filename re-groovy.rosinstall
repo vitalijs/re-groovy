@@ -1,6 +1,7 @@
 - git:
     uri: 'https://github.com/vitalijs/roboearth.git'
     local-name: stacks/roboearth
+    version: master
 - git:
     uri: 'https://github.com/IHeartEngineering/ar_tools.git'
     local-name: stacks/ccny_vision
