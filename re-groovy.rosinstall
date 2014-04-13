@@ -18,6 +18,3 @@
 - svn: 
     local-name: stacks/wire
     uri: 'https://roboticssrv.wtb.tue.nl/svn/ros/release/wire'
-- git:
-    local-name: pkgs/uashh-rvl-ros-pkg
-    uri: 'https://github.com/felix-kolbe/uashh-rvl-ros-pkg.git'
