@@ -1,0 +1,22 @@
+- git:
+    uri: 'https://github.com/vitalijs/roboearth.git'
+    local-name: stacks/roboearth
+- git:
+    uri: 'https://github.com/IHeartEngineering/ar_tools.git'
+    local-name: stacks/ccny_vision
+    version: master
+- svn:
+    uri: 'https://svn.code.sf.net/p/tum-ros-pkg/code/knowledge'
+    local-name: pkgs/tum-ros-pkg/knowledge
+- svn: 
+    local-name: stacks/knowrob
+    uri: 'http://code.in.tum.de/pubsvn/knowrob/tags/latest'
+- git: 
+    local-name: stacks/knowrob_addons
+    uri: 'https://github.com/knowrob/knowrob_addons.git'
+- svn: 
+    local-name: stacks/wire
+    uri: 'https://roboticssrv.wtb.tue.nl/svn/ros/release/wire'
+- git:
+    local-name: pkgs/uashh-rvl-ros-pkg
+    uri: 'https://github.com/felix-kolbe/uashh-rvl-ros-pkg.git'
